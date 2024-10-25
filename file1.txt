@@ -1,0 +1,4 @@
+Rust is a systems programming language.
+Rust is fast, memory-efficient, and safe.
+Concurrency is a key feature of Rust.
+Rust provides zero-cost abstractions.
