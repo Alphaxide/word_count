@@ -1,0 +1,4 @@
+Concurrency in Rust is achieved with threads.
+Rust's ownership system ensures memory safety.
+Rust is loved by developers for its performance.
+Rust and memory safety are inseparable.
